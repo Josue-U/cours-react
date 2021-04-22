@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# cours-react
+
+This is a introduction to ReactJS.
+
+This project is a tutorial made by  [From Scratch - Développement Web](https://www.youtube.com/watch?v=K3D2rjAUQ3o) .
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
